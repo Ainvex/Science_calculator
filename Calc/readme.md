@@ -24,7 +24,7 @@ To run the calculator locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/animated-calculator.git
+git clone https://github.com/yourusername/Science_calculator.git
 Navigate to the project directory:
 bash
 Copy code
